@@ -1,0 +1,15 @@
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/bin/Debug/net6.0/ex1
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/bin/Debug/net6.0/ex1.deps.json
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/bin/Debug/net6.0/ex1.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/bin/Debug/net6.0/ex1.pdb
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/refint/ex1.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.pdb
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/ex1/obj/Debug/net6.0/ref/ex1.dll
