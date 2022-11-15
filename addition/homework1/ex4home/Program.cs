@@ -14,4 +14,4 @@ if(firstNumber > secondNumber && firstNumber > thirdNumber){
 } else{
     max = thirdNumber;
 }
-Console.WriteLine($" Максимальное число = {max}");
+Console.WriteLine($" Максимальное число =gi {max}");
