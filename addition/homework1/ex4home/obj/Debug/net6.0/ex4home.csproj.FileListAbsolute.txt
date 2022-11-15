@@ -1,0 +1,15 @@
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.csproj.AssemblyReference.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.AssemblyInfoInputs.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.AssemblyInfo.cs
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.csproj.CoreCompileInputs.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/bin/Debug/net6.0/ex4home
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/bin/Debug/net6.0/ex4home.deps.json
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/bin/Debug/net6.0/ex4home.runtimeconfig.json
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/bin/Debug/net6.0/ex4home.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/bin/Debug/net6.0/ex4home.pdb
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/refint/ex4home.dll
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.pdb
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ex4home.genruntimeconfig.cache
+/Users/vitakovaleva/Desktop/ДЗ/c#examples/addition/homework1/ex4home/obj/Debug/net6.0/ref/ex4home.dll
